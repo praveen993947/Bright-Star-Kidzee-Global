@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+#heroSlider {
+    height: 70vh;
+}
+
+#heroSlider img {
+    object-fit: cover;
+    height:550px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#features ul {
+    list-style: none;
+    padding: 0;
+}
+
+#features ul li {
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #343a40;
+}
